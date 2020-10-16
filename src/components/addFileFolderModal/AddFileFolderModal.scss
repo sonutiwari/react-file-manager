@@ -1,0 +1,23 @@
+.modal-header {
+  border-bottom: 0 none;
+}
+
+.modal-footer {
+  border-top: 0 none;
+}
+
+#btn-left {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  width: 84px;
+}
+
+#btn-right {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 84px;
+}
+
+#filename-input {
+  margin: 10px 0;
+}

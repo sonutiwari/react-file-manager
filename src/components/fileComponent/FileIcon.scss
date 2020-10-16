@@ -1,0 +1,25 @@
+#container-div {
+  padding: auto;
+  margin: 10px;
+  #file-icon-container {
+    img {
+      padding: 5px;
+      height: 60px;
+      width: 60px;
+    }
+    #extension-text {
+      position: relative;
+      font-size: 0.7em;
+      margin-top: -20px;
+      margin-left: 10px;
+    }
+  }
+  #filename-text {
+    margin-top: -15px;
+    padding: 0 5px;
+  }
+}
+
+.shadow {
+  background-color: rgb(204, 204, 204);
+}

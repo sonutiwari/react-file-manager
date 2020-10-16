@@ -1,0 +1,17 @@
+#container-div {
+  padding: auto;
+  margin: 10px;
+  #folder-icon-container {
+    img {
+      padding: 5px;
+      height: 60px;
+      width: 60px;
+    }
+  }
+  #foldername-text {
+    margin-top: -2px;
+  }
+}
+.shadow {
+  background-color: rgb(204, 204, 204);
+}

@@ -1,0 +1,14 @@
+$greyColor: rgb(204, 204, 204);
+#add-file-folder-div {
+  border: 2px dashed $greyColor;
+  height: 50px;
+  width: 50px;
+  margin: 20px 10px;
+  border-radius: 5px;
+  #plus-btn {
+    color: $greyColor;
+    font-size: 24px;
+    font-weight: 700;
+    padding-left: 15px;
+  }
+}
